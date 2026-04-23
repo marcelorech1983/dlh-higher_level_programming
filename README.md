@@ -9,3 +9,4 @@ Task 3: Complete this source code in order to print 3 times a string stored in t
 Task 4: Complete this source code to print Welcome to Holberton School!
 Task 5: Python script that uses string slicing to extract the first 3 letters, last 2 letters, and the middle of a word.
 Task 6: Python script that builds a new sentence from slices of an existing string without creating new variables or using string literals.
+Task 7: Python script that prints The Zen of Python by importing Python’s built-in Easter egg module.
