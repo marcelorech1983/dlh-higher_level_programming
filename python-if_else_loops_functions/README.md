@@ -12,3 +12,4 @@ Task 6: Write a program that prints all possible different combinations of two d
 Task 7: Write a function that checks for lowercase character.
 Task 8: Write a function that prints a string in uppercase followed by a new line.
 Task 9: Write a function that prints the last digit of a number.
+Task 10: Write a function that adds two integers and returns the result.
