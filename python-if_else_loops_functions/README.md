@@ -10,3 +10,5 @@ Task 4: Write a program that prints all numbers from 0 to 98 in decimal and in h
 Task 5: Write a program that prints numbers from 0 to 99.
 Task 6: Write a program that prints all possible different combinations of two digits.
 Task 7: Write a function that checks for lowercase character.
+Task 8: Write a function that prints a string in uppercase followed by a new line.
+Task 9: Write a function that prints the last digit of a number.
