@@ -2,4 +2,4 @@
 
 Introduction to Python: import & modules.
 
-Task 0: Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+Task 0: Write a program that imports the function def add(a, b): from the file add_0.py and prints the result of the addition 1 + 2 = 3
