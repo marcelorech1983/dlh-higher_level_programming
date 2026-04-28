@@ -2,4 +2,4 @@
 
 Python - Data Structures: Lists, Tuples.
 
-Task 0: Positive anything is better than negative nothing
+Task 0: Write a function that prints all integers of a list.
