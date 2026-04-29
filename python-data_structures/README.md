@@ -8,8 +8,8 @@ Task 2: Write a function that replaces an element of a list at a specific positi
 Task 3: Write a function that prints all integers of a list, in reverse order.
 Task 4: Write a function that replaces an element in a list at a specific position without modifying the original list.
 Task 5: Write a function that removes all characters c and C from a string.
-Task 6:
-Task 7:
+Task 6: Write a function that prints a matrix of integers.
+Task 7: Write a function that adds 2 tuples.
 Task 8:
 Task 9:
 Task 10:
