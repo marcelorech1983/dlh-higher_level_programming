@@ -8,7 +8,7 @@ Task 2: Write a function that adds all unique integers in a list (only once for 
 Task 3: Write a function that returns a set of common elements in two sets.
 Task 4: Write a function that returns a set of all elements present in only one set.
 Task 5: Write a function that returns the number of keys in a dictionary.
-Task 6: 
+Task 6: Write a function that prints a dictionary by ordered keys.
 Task 7: 
 Task 8: 
 Task 9: 
