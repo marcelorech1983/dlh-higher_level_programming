@@ -10,7 +10,7 @@ Task 4: Write a function that replaces an element in a list at a specific positi
 Task 5: Write a function that removes all characters c and C from a string.
 Task 6: Write a function that prints a matrix of integers.
 Task 7: Write a function that adds 2 tuples.
-Task 8:
+Task 8: Write a function that returns a tuple with the length of a string and its first character.
 Task 9:
 Task 10:
 Task 11:
