@@ -13,5 +13,5 @@ Task 7: Write a function that adds 2 tuples.
 Task 8: Write a function that returns a tuple with the length of a string and its first character.
 Task 9: Write a function that finds the biggest integer of a list.
 Task 10: Write a function that finds all multiples of 2 in a list.
-Task 11:
-Task 12:
+Task 11: Write a function that deletes the item at a specific position in a list.
+Task 12: Complete the source code in order to switch value of a and b
