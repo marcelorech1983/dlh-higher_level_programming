@@ -9,7 +9,7 @@ Task 3: Write a function that returns a set of common elements in two sets.
 Task 4: Write a function that returns a set of all elements present in only one set.
 Task 5: Write a function that returns the number of keys in a dictionary.
 Task 6: Write a function that prints a dictionary by ordered keys.
-Task 7: 
+Task 7: Write a function that replaces or adds key/value in a dictionary.
 Task 8: 
 Task 9: 
 Task 10: 
