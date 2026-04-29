@@ -10,7 +10,7 @@ Task 4: Write a function that returns a set of all elements present in only one 
 Task 5: Write a function that returns the number of keys in a dictionary.
 Task 6: Write a function that prints a dictionary by ordered keys.
 Task 7: Write a function that replaces or adds key/value in a dictionary.
-Task 8: 
+Task 8: Write a function that deletes a key in a dictionary.
 Task 9: 
 Task 10: 
 Task 11: 
