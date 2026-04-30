@@ -14,4 +14,4 @@ Task 8: Write a function that deletes a key in a dictionary.
 Task 9: Write a function that returns a new dictionary with all values multiplied by 2.
 Task 10: Write a function that returns a key with the biggest integer value.
 Task 11: Write a function that returns a list with all values multiplied by a number without using any loops.
-Task 12: 
+Task 12: Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
