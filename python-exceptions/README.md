@@ -6,6 +6,6 @@ Task 0:
 Task 1: 
 Task 2: 
 Task 3: Write a function that divides 2 integers and prints the result.
-Task 4: 
+Task 4: Write a function that divides element by element 2 lists.
 Task 5: 
 Task 6: 
