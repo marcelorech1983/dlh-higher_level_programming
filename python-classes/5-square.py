@@ -34,5 +34,6 @@ class Square:
             """Print validation, if size = 0 print an empty line"""
             print()
         else:
+            """Print validation, print the square with the character #"""
             for i in range(self.size):
                 print("#" * self.size)
