@@ -9,9 +9,8 @@ class Square:
         self.size = size
 
     def area(self):
-        """Define the area."""
-        self.area = []
-        return self.area
+        """Return the calculated area."""
+        return self.size ** 2
 
     @property
     def size(self):
