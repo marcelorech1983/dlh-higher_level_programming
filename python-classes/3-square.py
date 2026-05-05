@@ -6,7 +6,7 @@ class Square:
     """This class represents a Square."""
     def __init__(self, size=0):
         """inicialize with size"""
-        self.size = size
+        self.__size = size
 
     @property
     def size(self):
@@ -17,8 +17,10 @@ class Square:
     def size(self, value):
         """Define the size with validation"""
         if not isinstance(value, int):
+            """Validate if the value is an integer"""
             raise TypeError("size must be an integer")
         if value < 0:
+            """Validate if the value is greater or equals 0"""
             raise ValueError("size must be >= 0")
         self.__size = value
 
